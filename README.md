@@ -8,8 +8,8 @@ Simple Calculator made using Python's Tkinter
 
 --> Type in 
 
-> python main.py ( For Windows )
-> python3 main.py ( For Linux/Mac )
+* python main.py ( For Windows )
+* python3 main.py ( For Linux/Mac )
             
  
 

@@ -6,8 +6,10 @@ Simple Calculator made using Python's Tkinter
 
 --> Navigate to the files's directory (main.py) using terminal/Command Prompt
 
---> Type in - python main.py ( For Windows )
-            - python3 main.py ( For Linux/Mac )
+--> Type in 
+
+> python main.py ( For Windows )
+> python3 main.py ( For Linux/Mac )
             
  
 
